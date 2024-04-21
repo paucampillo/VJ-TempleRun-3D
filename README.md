@@ -1,8 +1,7 @@
 # VJ-TempleRun-3D 
 
-Autors:
-Josep Diaz Sosa
-Pau Campillo Soro
+- Josep Diaz Sosa
+- Pau Campillo Soro
 
 # Trello
 https://trello.com/b/hPGKBa90/temple-run-3d
